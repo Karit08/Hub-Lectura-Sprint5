@@ -28,7 +28,9 @@ Esta Sprint muestra una  biblioteca de libros utilizando Visual Basic 6, con dif
 
 ![image](./assets/bdllena.png)
 
-![image](./assets/imagen1.jpg)
+![image](./assets/gen-favorito.png)
+
+![image](./assets/imagen2.jpg) ![image](./assets/pantallaprincipal.jpg)
 
 # Instrucciones para su instalacion
 
