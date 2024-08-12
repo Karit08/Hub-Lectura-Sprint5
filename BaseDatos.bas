@@ -9,7 +9,6 @@ Public Sub AbrirConexion()
     On Error GoTo ErrorHandler
     
     Set Con = New ADODB.Connection
-    ' Ingrese los datos de conexion de su base de datos
     Con.Open "Driver={SQL Server}; Server= ; Database= ; User Id= ; Password= ;"
     
     Exit Sub
